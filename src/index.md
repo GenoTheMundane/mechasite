@@ -13,7 +13,6 @@ propd: A very cool personal website that belongs to a cockroach that learned how
 
 [<img src="/_img/1entrance.webp" onclick="this.src = '/_img/1entrance_hover.webp;" onmouseover="this.src = '/_img/1entrance_hover.webp';"  onmouseout="this.src = '/_img/1entrance.webp';" style="width:80%; border-radius:15px; border:2px solid var(--brdr);">](/home)
 
-augh
 ## Some Extra Stuff
 <div class="bx1">
   <div class="crnlft">
