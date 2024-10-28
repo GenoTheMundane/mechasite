@@ -319,6 +319,37 @@
     padding-left:5%;
     padding-right:5%;
     }
+  #commitLink {
+    border-radius:15px;
+    padding:15px 50px;
+    margin:0px 10px;
+  }
+  #shortHash, #commitLatest{
+    margin-right: 10px;
+    margin-left: 10px;
+    border-left:2px solid var(--brdr);
+    border-right:2px solid var(--brdr);
+    background-color: var(--bg);
+  }
+  #shortHash {
+    border-top:2px solid var(--brdr);
+    border-bottom:1px solid var(--brdr);
+    color:var(--sp-fnt);
+    font-size:25px;
+    font-weight: bold;
+    border-radius:15px 15px 0px 0px;
+    padding:15px;
+    margin-bottom:0;
+    margin-top: 5px;
+  }
+  #commitLatest {
+    border-bottom:2px solid var(--brdr);
+    border-top:1px solid var(--brdr);
+    border-radius:0px 0px 15px 15px;
+    padding:15px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+  }
     .crnlft, .crnrht {
     width: 50%;
     }
@@ -405,7 +436,7 @@
     .active,.accordion:hover {
     background-color:var(--bg);
     }
-    .accordion:after {
+   
     content:'\002B';
     font-weight:bold;
     float:right;
