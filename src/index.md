@@ -72,7 +72,7 @@ code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neociti
       html += ` 
       <p> $ {title} - $ {dateString}<p> 
       <p> $ {content} </p>`;});
-    let html2 = ``;for (i = 0; i < 15; i++) {title = entries[i].querySelector("title").innerHTML.slice(0, 12).trim();content = entries[i].querySelector("content").textContent.trim();dateString = entries[i].querySelector("published").innerHTML.slice(0,10);html2 += `<p>${title} - ${dateString}<p><p>${content}</p>  <hr class="th">`;
+    let html2 = ``;for (i = 0; i < 5; i++) {title = entries[i].querySelector("title").innerHTML.slice(0, 12).trim();content = entries[i].querySelector("content").textContent.trim();dateString = entries[i].querySelector("published").innerHTML.slice(0,10);html2 += `<p>${title} - ${dateString}<p><p>${content}</p>  <hr class="th">`;
     }
     html2 += ` <p> <a href='https://status.cafe/users/mechagic'> See more at StatusCafe <i class="ph ph-link"></i></a></p> `; document.getElementById("feed-reader").innerHTML = html; document.getElementById("feed-reader").innerHTML = html2;
   })
