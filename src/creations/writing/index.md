@@ -7,7 +7,7 @@ propd: Stuff I wrote like my poetry and short stories
 
 # my writing
 
-testing
+<center><i>Important note here, for some reason newer posts get generated at the <b>bottom</b> of the lists instead of the top while everything else gets generated in reverse chronological order like normal. I am currently trying to fix this error to the best of my ability.<br>Posts affected: Spinal Cord, Austere</i></center>
 
 ---
 
