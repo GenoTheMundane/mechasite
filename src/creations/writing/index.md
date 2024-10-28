@@ -13,7 +13,7 @@ propd: Stuff I wrote like my poetry and short stories
 My short stories, I mostly make them up on the fly. I put my concepts here as well.
 
 <ul>
-{%- for post in collections.story -%}
+{%- for post in collections.story reversed -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
@@ -22,7 +22,7 @@ My short stories, I mostly make them up on the fly. I put my concepts here as we
 All of these are experimental and some of these are pretentious
 
 <ul>
-{%- for post in collections.poetry -%}
+{%- for post in collections.poetry reversed -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
@@ -31,7 +31,7 @@ All of these are experimental and some of these are pretentious
 Old stuff from my original writing blog on Tumblr, might rewrite IOTD.
 
 <ul>
-{%- for post in collections.archive -%}
+{%- for post in collections.archive reversed -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
