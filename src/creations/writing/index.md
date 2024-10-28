@@ -5,33 +5,36 @@ ogd: Stuff I wrote like my poetry and short stories
 propd: Stuff I wrote like my poetry and short stories
 ---
 
-<h1>my writing</h1>
+# my writing
 
-<hr>
+testing
 
-<h2>Short Stories And Concepts <i class="ph ph-notebook"></i></h2>
-<p>My short stories, I mostly make them up on the fly. I put my concepts here as well.</p>
+---
+
+## Short Stories And Concepts <i class="ph ph-notebook"></i>
+My short stories, I mostly make them up on the fly. I put my concepts here as well.
 
 <ul>
-{%- for post in collections.story | reverse -%}
+{%- for post in collections.story reversed -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
 
-<h2>Poetry <i class="ph ph-scroll"></i></h2>
+## Poetry <i class="ph ph-scroll"></i>
 All of these are experimental and some of these are pretentious
 
 <ul>
-{%- for post in collections.poetry | reverse -%}
+{%- for post in collections.poetry reversed -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
 
-<h2>Archives <i class="ph ph-archive"></i></h2>
+## Archives <i class="ph ph-archive"></i>
 Old stuff from my original writing blog on Tumblr, might rewrite IOTD.
 
 <ul>
-{%- for post in collections.archive | reverse -%}
+{%- for post in collections.archive reversed -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
+
