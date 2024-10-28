@@ -20,11 +20,14 @@ Interested in more story focused stuff? I have a good amount of concept art for 
        </button>    </div>
                 <div id="2024" class="tabcontent">
 <div class="gallery">
+        <a href="/_art/oct292024.webp" data-caption="Tired of pacing, tired of the wind, tired of the rocks and tired of learning when there is no more to learn | My OC, Cogito | October 29 2024">
+            <img class="thumb" src="/_art/th/oct292024.webp" alt="Tired of pacing, tired of the wind, tired of the rocks and tired of learning when there is no more to learn | My OC, Cogito |October 29 2024">
+        </a>
         <a href="/_art/oct102024.webp" data-caption="Master of The Tower | afacelessdream on twitter | October 10 2024">
             <img class="thumb" src="/_art/th/oct102024.webp" alt="Master of The Tower | afacelessdream on twitter |October 10 2024">
         </a>
-        <a href="/_art/oct092024.webp" data-caption="Roleplay lore | October 9 2024">
-            <img class="thumb" src="/_art/th/oct092024.webp" alt="Roleplay lore | October 9 2024">
+        <a href="/_art/oct092024.webp" data-caption="Roleplay lore | My OC, Evil | October 9 2024">
+            <img class="thumb" src="/_art/th/oct092024.webp" alt="Roleplay lore | My OC, Evil | October 9 2024">
         </a>
         <a href="/_art/Jul052024.webp" data-caption="Who Knows | hell1shrelish on tumblr (left), afacelessdream on twitter (right) | July 5 2024">
             <img class="thumb" src="/_art/th/Jul052024.webp" alt="Who Knows | hell1shrelish on tumblr (left), afacelessdream on twitter (right) | July 5 2024">
@@ -32,8 +35,8 @@ Interested in more story focused stuff? I have a good amount of concept art for 
         <a href="/_art/jun292024.webp" data-caption="Mesmerizer | reusedfsblog36 on tumblr (left), afacelessdream on twitter (right) | June 29 2024">
             <img class="thumb" src="/_art/th/jun292024.webp" alt="Mesmerizer | reusedfsblog36 on tumblr (left), afacelessdream on twitter (right) | June 29 2024">
         </a>
-        <a href="/_art/jun242024.webp" data-caption="Unbeknownst to everybody the mycelium grows | June 24 2024">
-            <img class="thumb" src="/_art/th/jun242024.webp" alt="Unbeknownst to everybody the mycelium grows | June 24 2024">
+        <a href="/_art/jun242024.webp" data-caption="Unbeknownst to everybody the mycelium grows | My OC, Pest Control | June 24 2024">
+            <img class="thumb" src="/_art/th/jun242024.webp" alt="Unbeknownst to everybody the mycelium grows | My OC, Pest Control | June 24 2024">
         </a>
         <a href="/_art/jun182024.webp" data-caption="Everyone is staring at you. | hell1shrelish on tumblr | June 18 2024">
             <img class="thumb" src="/_art/th/jun182024.webp" alt="Everyone is staring at you. | hell1shrelish on tumblr | June 18 2024">
