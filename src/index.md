@@ -80,7 +80,10 @@ code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neociti
 
 ## Webrings
 
-<div class="bx2">
+<div class="invis">
+     <button style="margin:0px 0px 15px 0px;" class="accordion">Open</button>
+        <div class="panel">
+          <div style="width:90%; margin:auto;" class="bx2">
                     <div style="width: fit-content; margin: auto;" id='furryring'>
                         <script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
                         <script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
@@ -96,4 +99,6 @@ code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neociti
                         <script src="/_assets/showWebring.js"></script>
                     </div>
                     <!--END OF SELF INSERT WEBRING-->
+        </div>
+        </div>
 </div>

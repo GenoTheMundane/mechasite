@@ -86,7 +86,10 @@ Have a button that I made:
   })
 </script>
 <h2>Webrings</h2>
-<div class="bx2">
+<div class="invis">
+     <button style="margin:0px 0px 15px 0px;" class="accordion">Open</button>
+        <div class="panel">
+          <div style="width:90%; margin:auto;" class="bx2">
                     <div style="width: fit-content; margin: auto;" id='furryring'>
                         <script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
                         <script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
@@ -102,10 +105,28 @@ Have a button that I made:
                         <script src="/_assets/showWebring.js"></script>
                     </div>
                     <!--END OF SELF INSERT WEBRING-->
+        </div>
+        </div>
 </div>
         </main2>
     </div>
 </div>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
 </body>
 </html>
 

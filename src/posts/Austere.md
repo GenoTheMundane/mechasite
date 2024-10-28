@@ -33,6 +33,6 @@ All to make YOU focus on YOUR tasks easier!
 So what are you waiting for? Buy the Austere Bot now!
 
 
-<div style="font-size:16px;" class="bx1">
+<div style="font-size:16px; padding:0px;margin:0px;" class="bx2">
 By buying our product you are agreeing to our Privacy Policy and Terms of Service. The company behind the Austere Bot, Stymphalia, will not be held liable for any damage caused by the product. Do not allow the product near young children or animals.
 </div>

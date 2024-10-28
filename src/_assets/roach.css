@@ -306,6 +306,9 @@
     padding:15px;
     margin: 20px auto 20px auto;
     }
+    .invis{
+    background-color:transparent;
+    }
     #feed-reader {
     background-color: var(--bg);
     border: 2px solid var(--brdr);
@@ -431,19 +434,18 @@
     outline:none;
     font-size:inherit;
     font-family:inherit;
+    font-weight:bold;
     transition:0.4s;
     }
     .active,.accordion:hover {
     background-color:var(--bg);
-    }
-   
-    content:'\002B';
     font-weight:bold;
-    float:right;
-    margin-left:5px;
     }
-    .accordion.active:after {
-    content:"\2212";
+    .accordion:after, .accordion:before {
+    content:"\25BC";
+    }
+    .accordion.active:after, .accordion.active:before {
+    content:"\25B2";
     }
     .panel {
     padding:0.18px;
