@@ -3,7 +3,7 @@ layout: t3.njk
 title: Interview Of The Damned
 tags:
     - archive
-date: 2023-14-08
+date: 2023-12-10
 ---
 
 You can translate some of the text via rot13

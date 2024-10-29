@@ -7,8 +7,6 @@ propd: Stuff I wrote like my poetry and short stories
 
 # my writing
 
-<center><i>Important note here, for some reason newer posts get generated at the <b>bottom</b> of the lists instead of the top while everything else gets generated in reverse chronological order like normal. I am currently trying to fix this error to the best of my ability.<br>Posts affected: Spinal Cord, Austere</i></center>
-
 ---
 
 ## Short Stories And Concepts <i class="ph ph-notebook"></i>
@@ -30,7 +28,7 @@ All of these are experimental and some of these are pretentious
 </ul>
 
 ## Archives <i class="ph ph-archive"></i>
-Old stuff from my original writing blog on Tumblr, might rewrite IOTD.
+Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is under rewriting
 
 <ul>
 {%- for post in collections.archive reversed -%}

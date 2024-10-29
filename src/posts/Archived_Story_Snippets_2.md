@@ -3,7 +3,7 @@ layout: t3.njk
 title: Archived Story Snippets 2
 tags:
     - archive
-date: 2023-13-08
+date: 2023-12-09
 ---
 
 **Author's Note:** Part 2 of this
