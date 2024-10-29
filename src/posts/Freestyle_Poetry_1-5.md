@@ -3,6 +3,7 @@ layout: t3.njk
 title: Freestyle Poetry 1-5
 tags:
     - poetry
+date: 2023-12-11
 ---
 <style>
    p{

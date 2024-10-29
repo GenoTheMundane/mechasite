@@ -3,6 +3,7 @@ layout: t3.njk
 title: One Word Themed Poetry
 tags:
     - poetry
+date: 2024-01-03
 ---
 
 <style>

@@ -3,6 +3,7 @@ layout: t3.njk
 title: The Hunt
 tags:
     - poetry
+date: 2024-10-09
 ---
 
 ---
