@@ -3,6 +3,7 @@ layout: t2
 title: Writing
 ogd: Stuff I wrote like my poetry and short stories
 propd: Stuff I wrote like my poetry and short stories
+templateEngineOverride: njk, md
 ---
 
 # my writing
@@ -13,26 +14,26 @@ propd: Stuff I wrote like my poetry and short stories
 My short stories, I mostly make them up on the fly. I put my concepts here as well.
 
 <ul>
-{%- for post in collections.story reversed -%}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-{%- endfor -%}
+{%- for post in collections.story | reverse -%}
+    <li><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
+  {%- endfor -%}
 </ul>
 
 ## Poetry <i class="ph ph-scroll"></i>
 All of these are experimental and some of these are pretentious
 
 <ul>
-{%- for post in collections.poetry reversed -%}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-{%- endfor -%}
+{%- for post in collections.poetry | reverse -%}
+    <li><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
+  {%- endfor -%}
 </ul>
 
 ## Archives <i class="ph ph-archive"></i>
-Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is under rewriting
+Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is under rewriting.
 
 <ul>
-{%- for post in collections.archive reversed -%}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-{%- endfor -%}
+{%- for post in collections.archive | reverse -%}
+    <li><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
+  {%- endfor -%}
 </ul>
 
