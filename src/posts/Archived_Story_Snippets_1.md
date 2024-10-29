@@ -3,6 +3,7 @@ layout: t3.njk
 title: Archived Story Snippets 1
 tags:
     - archive
+date: 2023-12-08
 ---
 
 **Author's Note:** Part 2 of this, the next post will be an archival of "Interview Of The Damned", which was a personal writing project that I might reboot in the future
