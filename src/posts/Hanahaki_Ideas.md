@@ -3,6 +3,7 @@ layout: t3.njk
 title: Hanahaki Ideas
 tags:
     - story
+date: 2024-03-15
 ---
 
 ---

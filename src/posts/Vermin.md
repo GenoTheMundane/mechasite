@@ -1,8 +1,9 @@
 ---
-layout: t3.njk
+layout: t3
 title: Vermin
 tags:
     - story
+date: 2023-12-29
 ---
 
 ---

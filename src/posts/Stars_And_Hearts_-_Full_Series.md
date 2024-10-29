@@ -3,6 +3,7 @@ layout: t3.njk
 title: Stars And Hearts - Full Series
 tags:
     - story
+date: 2024-01-25
 ---
 
 **Author's Note:** This story that is pretty much a beta version of one that I am currently working on. This doesn't have good writing and is incredibly unplanned. All of these are from early 2024.
