@@ -12,6 +12,7 @@ propd: A very cool personal website that belongs to a cockroach that learned how
 ***click the image below to enter the website!***
 
 [<img src="/_img/1entrance.webp" onclick="this.src = '/_img/1entrance_hover.webp;" onmouseover="this.src = '/_img/1entrance_hover.webp';"  onmouseout="this.src = '/_img/1entrance.webp';" style="width:80%; border-radius:15px; border:2px solid var(--brdr);">](/home)
+<br>This website is mobile friendly<br> For desktop it is best viewed on a 1536x702 screen with firefox and javascript enabled.
 
 ## Some Extra Stuff
 <div class="bx1">
