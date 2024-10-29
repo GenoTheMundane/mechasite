@@ -6,8 +6,6 @@ tags:
 date: 2024-10-09
 ---
 
----
-
 Gunpowder smoke, no protection, loaded full of bullets. A man will hunt in the forest
 
 Sunken eyes, pins and needs, blackened skin. A man will be dead in the forest.

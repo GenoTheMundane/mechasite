@@ -16,8 +16,6 @@ date: 2024-10-17
    }
 </style>
 
----
-
 Putting out the fire.
 
 The endless dawn consumes me and the stars stare at me from above.
