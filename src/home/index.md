@@ -19,13 +19,11 @@ Here are some useless facts about me: Minor, ENT-P, Earth Rat, and I won't have 
 
 Here are some things that I like: Ice cream, Lasagna, 8 Bit Music, Lists and Corn
 
-Fun fact: This website was coded on Firefox!
-
 ---
 ## Why All of This <i class="ph ph-seal-question"></i>
 Personally I don't do manifestos on the current state of the internet and what a drudgery it is to scroll through so many of the same looking pages. That's not really my style, no offense to anyone who does that though, you keep doing you. Simply put: this is just a tiny corner I have for myself, a little place where I can do a lot of things, or well- not a lot of things. I am not ***that*** creative lmao. I just do what I want, when I want, and if you got issues with that- feel free to leave.
 
-This place would also serve as a hub for most of my creative shenanigans. My art, my music and my writing will all be here. As well as a few more things like resources and other miscellaneous things.
+This place serves as a hub for most of my creative shenanigans. My art, my music and my writing are all here. As well as a few more things like resources and other miscellaneous things.
 
 ---
 
