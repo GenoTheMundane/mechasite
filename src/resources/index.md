@@ -22,6 +22,8 @@ The stuff that I used to make this website myself!
 
 - Ayano's Comment Widget, used on the guestbook - [link <i class="ph ph-link"></i>](https://virtualobserver.moe/ayano/comment-widget)
 
+- Squoosh, used to convert `.png` files types to `.webp` - [link <i class="ph ph-link"></i>](https://squoosh.app)
+
 - Dithermark, for the dithering on some of the images - [link <i class="ph ph-link"></i>](https://app.dithermark.com/)
 
 - 11ty -> Lexiqqq Workflow, cuts out a ton of annoying work - [link <i class="ph ph-link"></i>](https://moosyu.github.io/pages/guides/lexiqqq_eleventy/)
@@ -58,8 +60,6 @@ Colors, ASCII as well as some other stuff
 
 - Beepbox, make music on your browser - [link <i class="ph ph-link"></i>](https://www.beepbox.co/)
 
-- Squoosh, convert image file types to another - [link <i class="ph ph-link"></i>](https://squoosh.app)
-
 - Ascii archive, categorized by the ASCII's theme - [link <i class="ph ph-link"></i>](https://www.asciiart.eu/)
 
 - Ezgif, not just gifs! It can be other stuff as well - [link <i class="ph ph-link"></i>](https://ezgif.com/)
@@ -76,8 +76,6 @@ Colors, ASCII as well as some other stuff
 Stuff you can put on your website <i class="ph ph-folder-plus"></i>
 
 - Chattable, have a chatbox - [link <i class="ph ph-link"></i>](https://iframe.chat/)
-
-- BaguetteBox, lightbox gallery - [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
 
 - Bloggable, iframe blogging tool - [link <i class="ph ph-link"></i>](https://iframe.chat/)
 
