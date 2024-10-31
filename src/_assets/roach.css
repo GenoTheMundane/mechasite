@@ -59,9 +59,10 @@ body {
   margin:0;
   background-color:var(--bg);
   /* you can delete the line below if you'd prefer to not use an image */
-    background-size:80px;
+  background-size:80px;
   color:var(--mn-fnt);
   background-image:var(--bg-img);
+  background-attachment: fixed;
 }
 * {
   box-sizing:border-box;
