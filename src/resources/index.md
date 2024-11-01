@@ -6,33 +6,8 @@ propd: Resources I found around the web for making your own website
 ---
 # resources
 
----
-
-A buncha resources for website making and other stuff!
-
-## Credits <i class="ph ph-users-three"></i>
-
-The stuff that I used to make this website myself!
-
-- Sublime Text, my main code editor - [link <i class="ph ph-link"></i>](https://www.sublimetext.com/)
-
-- BaguetteBox, the lightbox gallery I use- [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
-
-- Eleventy, the SSG that I'm using right now! - [link <i class="ph ph-link"></i>](https://www.11ty.dev/)
-
-- Ayano's Comment Widget, used on the guestbook - [link <i class="ph ph-link"></i>](https://virtualobserver.moe/ayano/comment-widget)
-
-- Squoosh, used to convert `.png` files types to `.webp` - [link <i class="ph ph-link"></i>](https://squoosh.app)
-
-- Dithermark, for the dithering on some of the images - [link <i class="ph ph-link"></i>](https://app.dithermark.com/)
-
-- 11ty -> Lexiqqq Workflow, cuts out a ton of annoying work - [link <i class="ph ph-link"></i>](https://moosyu.github.io/pages/guides/lexiqqq_eleventy/)
-
-- Goblin Heart layout builder, the base code for the website - [link <i class="ph ph-link"></i>](https://goblin-heart.net/sadgrl/projects/layout-builder/)
-
-- CSSgradient, what I used to make all of the gradients here - [link <i class="ph ph-link"></i>](https://cssgradient.io)
-
-- Phosphoricons, the icon pack you're seeing all over the place - [link <i class="ph ph-link"></i>](https://phosphoricons.com/)
+A buncha resources for website making and other stuff! 
+<br>Highlighted `text` are things that I used for the website
 
 ---
 
@@ -56,32 +31,55 @@ A bunch of things that I read that helped me make this website
 ---
 
 ## Tools <i class="ph ph-pencil-ruler"></i>
+Stuff to help with coding, I used most of the tools here
+
+- Sublime Text, my main code editor - [link <i class="ph ph-link"></i>](https://www.sublimetext.com/)
+
+- Eleventy, the SSG that I'm using right now! - [link <i class="ph ph-link"></i>](https://www.11ty.dev/)
+
+- 11ty -> Lexiqqq Workflow, cuts out a ton of annoying work - [link <i class="ph ph-link"></i>](https://moosyu.github.io/pages/guides/lexiqqq_eleventy/)
+
+- Goblin Heart layout builder, the base code for the website - [link <i class="ph ph-link"></i>](https://goblin-heart.net/sadgrl/projects/layout-builder/)
+
+- CSSgradient, what I used to make all of the gradients here - [link <i class="ph ph-link"></i>](https://cssgradient.io)
+
+- Petrapixel's layout builder, actively maintained unlike the one above - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/coding/layout-generator)
+
+---
+
+## Visuals <i class="ph ph-image"></i>
 Colors, ASCII as well as some other stuff
-
-- Beepbox, make music on your browser - [link <i class="ph ph-link"></i>](https://www.beepbox.co/)
-
-- Ascii archive, categorized by the ASCII's theme - [link <i class="ph ph-link"></i>](https://www.asciiart.eu/)
 
 - Ezgif, not just gifs! It can be other stuff as well - [link <i class="ph ph-link"></i>](https://ezgif.com/)
 
+- Ascii archive, categorized by the ASCII's theme - [link <i class="ph ph-link"></i>](https://www.asciiart.eu/)
+
+- `Squoosh`, used to compress or convert image files - [link <i class="ph ph-link"></i>](https://squoosh.app)
+
+- `Dithermark`, for the dithering on some of the images - [link <i class="ph ph-link"></i>](https://app.dithermark.com/)
+
 - Button Maker, idk what else to tell you, it's a button maker - [link <i class="ph ph-link"></i>](https://hekate2.github.io/buttonmaker/)
 
-- Layout Generator, actively maintained and made by Petrapixel - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/coding/layout-generator)
-
 - Patternico, background maker, I used this a few times in the past - [link <i class="ph ph-link"></i>](https://patternico.com/)
+
+- `Phosphoricons`, the icon pack you're seeing all over the place - [link <i class="ph ph-link"></i>](https://phosphoricons.com/)
 
 ---
 
 ## Add-Ons <i class="ph ph-folder-plus"></i>
-Stuff you can put on your website <i class="ph ph-folder-plus"></i>
+Stuff you can put on your website
 
 - Chattable, have a chatbox - [link <i class="ph ph-link"></i>](https://iframe.chat/)
 
 - Bloggable, iframe blogging tool - [link <i class="ph ph-link"></i>](https://iframe.chat/)
 
+- `BaguetteBox`, the lightbox gallery I use- [link <i class="ph ph-link"></i>](https://github.com/feimosi/baguetteBox.js/)
+
 - Incremental Button, make number go up - [link <i class="ph ph-link"></i>](https://incr.easrng.net/)
 
 - HTML Journal, blogging tool for your website - [link <i class="ph ph-link"></i>](https://journal.miso.town/)
+
+- `Ayano's Comment Widget`, used on the guestbook - [link <i class="ph ph-link"></i>](https://virtualobserver.moe/ayano/comment-widget)
 
 ---
 
