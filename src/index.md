@@ -39,7 +39,8 @@ A buncha people I met on the `r/neocities discord server`
 [<img class="bton" style="image-rendering: smooth;" src="https://xobyte.org/files/poyo-reporter.png">](https://reporter.poyo.study/) [<img class="bton" src="https://april.lexiqqq.com/buttons/button.webp">](https://april.lexiqqq.com/) [<img class="bton" src="https://xobyte.org/files/button.gif">](https://xobyte.org/) [<img class="bton" src="https://moosyu.github.io/assets/swirlCatppuccin.gif">](https://moosyu.github.io/)
 
 ## Latest Updates
-code taken from [moosyu <i class="ph ph-link"></i>](https://moosyu.nekoweb.org/pages/guides/latest_commit/)
+Code taken from [moosyu <i class="ph ph-link"></i>](https://moosyu.nekoweb.org/pages/guides/latest_commit/)
+<br> `Disclaimer`: It takes a while for the changes to appear on the website
 <div id="commitLink"><div id="shortHash"></div><div id="commitLatest"></div></div>
 <script>
   fetch('https://api.github.com/repos/GenoTheMundane/mechasite/commits?per_page=1')
@@ -54,7 +55,7 @@ code taken from [moosyu <i class="ph ph-link"></i>](https://moosyu.nekoweb.org/p
 </script>
 
 ## Microblog
-code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neocities.org/resources/tut_statuscafefeed)
+Code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neocities.org/resources/tut_statuscafefeed)
 
 <div id='feed-reader'></div>
 
