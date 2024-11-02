@@ -15,7 +15,7 @@ My short stories, I mostly make them up on the fly. I put my concepts here as we
 
 <ul>
 {%- for post in collections.story | reverse -%}
-    <li><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
+    <li style="margin-bottom:5px;"><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
   {%- endfor -%}
 </ul>
 
@@ -24,7 +24,7 @@ All of these are experimental and some of these are pretentious
 
 <ul>
 {%- for post in collections.poetry | reverse -%}
-    <li><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
+     <li style="margin-bottom:5px;"><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
   {%- endfor -%}
 </ul>
 
@@ -33,7 +33,7 @@ Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is un
 
 <ul>
 {%- for post in collections.archive | reverse -%}
-    <li><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
+     <li style="margin-bottom:5px;"><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
   {%- endfor -%}
 </ul>
 
