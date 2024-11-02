@@ -8,8 +8,8 @@ templateEngineOverride: njk, md
 
 # my writing
 
-Want an rss feed for this page? Here's a [link <i class="ph ph-link"></i>](/feed.xml) to it!
-<br>I'm working on a seperate rss feed for the specific categories as well
+<center>Want an rss feed for this page? Here's a <a href="/feed.xml">link <i class="ph ph-link"></i></a> to it!
+<br>I'm working on a seperate rss feed for the specific categories as well</center>
 
 ---
 
