@@ -3,6 +3,7 @@ layout: t3.njk
 title: Stars And Hearts
 tags:
     - archive
+    - posts
 date: 2024-01-25
 ---
 

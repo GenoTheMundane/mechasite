@@ -3,6 +3,7 @@ layout: t3.njk
 title: Interview Of The Damned
 tags:
     - archive
+    - posts
 date: 2023-12-10
 ---
 
