@@ -8,6 +8,9 @@ templateEngineOverride: njk, md
 
 # my writing
 
+Want an rss feed for this page? Here's a [link <i class="ph ph-link"></i>](/feed.xml) to it!
+<br>I'm working on a seperate rss feed for the specific categories as well
+
 ---
 
 ## Short Stories And Concepts <i class="ph ph-notebook"></i>
