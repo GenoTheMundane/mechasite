@@ -43,8 +43,9 @@ All of these were made for this website!, you can see two of them on the right s
 
 The fictional children that I take care of
 
-- TamaNOTchi - [link <i class="ph ph-link"></i>](https://tamanotchi.world/u/7533)
+- 4dopt - [link <i class="ph ph-link"></i>](https://www.4dopt.com/profile.php?id=3732)
 - Lorwolf - [link <i class="ph ph-link"></i>]( https://www.lorwolf.com/Play/ViewUser?id=14297)
+- TamaNOTchi - [link <i class="ph ph-link"></i>](https://tamanotchi.world/u/7533)
 
 <center>
 <a href="https://tamanotchi.world/8924c"><img class="tramb" style="width:auto;" src="https://tamanotchi.world/i2/8924" alt="It's tamaNOTchi! Click to feed!"></a>

@@ -31,6 +31,7 @@ Other accounts, or rather accounts that aren't for social media, hell some aren'
 
 Basically a bunch of random stuff that I want linked here
 
+- 4dopt - [link <i class="ph ph-link"></i>](https://www.4dopt.com/profile.php?id=3732)
 - Roblox - [link <i class="ph ph-link"></i>](https://www.roblox.com/users/5763807601/profile)
 - Lorwolf - [link <i class="ph ph-link"></i>]( https://www.lorwolf.com/Play/ViewUser?id=14297)
 - Textworld - [link <i class="ph ph-link"></i>](https://www.yourworldoftext.com/~mechagic/)
