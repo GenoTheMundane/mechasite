@@ -76,6 +76,12 @@ None of these are real, I am not getting paid SAD! I will add more when I find t
 Like this website? You also might like the other websites here:
 
 <center>
+<div style="width:20%; margin: auto;">
+  <a href="https://peanits.lol/webrings/musicring/index.php"><img src="https://peanits.lol/webrings/musicring/assets/button.gif"></a><br>
+  <a href="https://peanits.lol/webrings/musicring/prev.php?slug=mechagic">prev</a>
+  <a href="https://peanits.lol/webrings/musicring/rand.php">rand</a>
+  <a href="https://peanits.lol/webrings/musicring/next.php?slug=mechagic">next</a>
+</div>
 <div style="width: fit-content; margin: auto;" id='furryring'>
     <script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
     <script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
