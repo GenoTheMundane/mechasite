@@ -20,13 +20,9 @@ Just turn on the “Alarm” setting by flipping a switch on the Austere Bot and
 It will start doing the following actions:
 
 - Closing your work calls
-
 - Deleting saved phone numbers
-
 - Disallow outsiders into your house
-
 - Block all exits to the house
-
 - Hiding your medication
 
 All to make YOU focus on YOUR tasks easier!

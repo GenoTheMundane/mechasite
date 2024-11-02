@@ -248,6 +248,9 @@ img.tramb {
   border-bottom:2px solid var(--brdr);
   background:var(--grdnt3);
 }
+li{
+  margin-bottom:5px
+}
 hr {
   border:3px solid var(--brdr);
   border-radius:5px;
