@@ -7,6 +7,9 @@
     the images as variables */:root {
   --bg-img:url('/_img/1bg.webp');
   --brdr:#007FFF;
+  --bord: 2px solid var(--brdr);
+  --bord2: 4px solid var(--brdr);
+  --bord3: 3px solid var(--brdr);
   --glw:rgba(0,127,255,0.30);
   --bg:#08031A;
   --hdr:linear-gradient(0deg,rgba(8,3,26,1) 0%,rgba(8,3,26,0.75) 50%);
@@ -96,9 +99,9 @@ body {
   margin:0 auto;
   background:var(--hdr);
   border-radius:0px 0px 25px 25px;
-  border-left:4px solid var(--brdr);
-  border-right:4px solid var(--brdr);
-  border-bottom:4px solid var(--brdr);
+  border-left:var(--bord2);
+  border-right:var(--bord2);
+  border-bottom:var(--bord2);
   text-align:center;
   position:sticky;
   background-size:100%;
@@ -130,7 +133,7 @@ body {
   padding:20px;
   overflow-y:auto;
   background:var(--grdnt);
-  border:4px solid var(--brdr);
+  border:var(--bord2);
   height:82.5vh;
   margin:1%;
 }
@@ -140,7 +143,7 @@ body {
   height:75vh;
   overflow-y:auto;
   box-shadow:2px 2px 58px 0px var(--glw);
-  border:4px solid var(--brdr);
+  border:var(--bord2);
   flex:1;
   border-radius:25px;
   padding:25px;
@@ -155,7 +158,7 @@ main2 {
   text-align:center;
   overflow-y:auto;
   box-shadow:2px 2px 58px 0px var(--glw);
-  border:4px solid var(--brdr);
+  border:var(--bord2);
   border-radius:25px;
   padding:25px;
   margin-left: auto;
@@ -168,9 +171,9 @@ main3 {
   background:var(--mn);
   width:60%;
   box-shadow:2px 2px 58px 0px var(--glw);
-  border-left:4px solid var(--brdr);
-  border-right:4px solid var(--brdr);
-  border-top:4px solid var(--brdr);
+  border-left:var(--bord2);
+  border-right:var(--bord2);
+  border-top:var(--bord2);
   padding:25px;
   border-radius:25px 25px 0px 0px;
   margin-top:5%;
@@ -204,13 +207,13 @@ main3 {
   border-radius:10px 50px;
 }
 /*cosmetic*/
-    iframe {
-  border:3px solid var(--brdr);
+iframe {
+  border:var(--bord3)
   border-radius:15px;
 }
 iframe.music {
   height:60px;
-  border:3px solid var(--brdr);
+  border:var(--bord3)
   border-radius:15px;
   width:50%;
 }
@@ -225,18 +228,18 @@ img.bton {
   width:auto;
   height:33px;
   border-radius:5px;
-  border:2px solid var(--brdr);
+  border:var(--bord);
 }
 img.tilt {
   transform:rotate(-20deg);
   float:right;
   border-radius:15px;
-  border:2px solid var(--brdr);
+  border:var(--bord);
 }
 img.thumb {
   border-radius:5px;
   margin:5px;
-  border:2px solid var(--brdr);
+  border:var(--bord);
   width:22%;
 }
 img.tramb {
@@ -244,24 +247,24 @@ img.tramb {
   margin:5px;
   padding:2px;
   border-radius:15px;
-  border-top:2px solid var(--brdr);
-  border-bottom:2px solid var(--brdr);
+  border-top:var(--bord);
+  border-bottom:var(--bord);
   background:var(--grdnt3);
 }
 li{
   margin-bottom:5px
 }
 hr {
-  border:3px solid var(--brdr);
+  border:var(--bord3)
   border-radius:5px;
 }
 hr.th {
-  border:2px solid var(--brdr);
+  border:var(--bord);
   border-radius:5px;
   width:90%;
 }
 hr.vr {
-  border:2px solid var(--brdr);
+  border:var(--bord);
   border-radius:5px;
   width:0%;
   margin-left:4px;
@@ -304,7 +307,7 @@ code {
 /* css containers*/
     .bx1 {
   background-color:var(--bx);
-  border:2px solid var(--brdr);
+  border:var(--bord);
   box-shadow:0px 0px 50px 0px var(--shd) inset;
   border-radius:15px;
   padding:15px;
@@ -314,7 +317,7 @@ code {
 }
 .bx2 {
   background-color:var(--bx);
-  border:2px solid var(--brdr);
+  border:var(--bord);
   box-shadow:0px 0px 50px 0px var(--shd) inset;
   border-radius:15px;
   padding:15px;
@@ -322,7 +325,7 @@ code {
 }
 .bx3 {
   background:var(--grdnt2);
-  border:2px solid var(--brdr);
+  border:var(--bord);
   width:95%;
   border-radius:15px;
   padding:15px;
@@ -333,7 +336,7 @@ code {
 }
 #feed-reader {
   background-color:var(--bg);
-  border:2px solid var(--brdr);
+  border:var(--bord);
   height:300px;
   width:90%;
   overflow-y:auto;
@@ -353,12 +356,12 @@ code {
 #shortHash,#commitLatest {
   margin-right:10px;
   margin-left:10px;
-  border-left:2px solid var(--brdr);
-  border-right:2px solid var(--brdr);
+  border-left:var(--bord);
+  border-right:var(--bord);
   background-color:var(--bg);
 }
 #shortHash {
-  border-top:2px solid var(--brdr);
+  border-top:var(--bord);
   border-bottom:1px solid var(--brdr);
   color:var(--sp-fnt);
   font-size:25px;
@@ -370,7 +373,7 @@ code {
   margin-top:5px;
 }
 #commitLatest {
-  border-bottom:2px solid var(--brdr);
+  border-bottom:var(--bord);
   border-top:1px solid var(--brdr);
   border-radius:0px 0px 15px 15px;
   padding:15px;
@@ -401,14 +404,14 @@ th,td {
   padding:8px;
   text-align:center;
   border-radius:15px;
-  border-left:3px solid var(--brdr);
-  border-right:3px solid var(--brdr);
+  border-left:var(--bord3)
+  border-right:var(--bord3)
 }
 th {
   padding:8px;
   text-align:center;
   border-radius:15px;
-  border-bottom:3px solid var(--brdr);
+  border-bottom:var(--bord3)
 }
 th:first-child,td:first-child {
   border-left:0;
@@ -422,7 +425,7 @@ th:last-child,td:last-child {
   box-shadow:0px 0px 10px 10px var(--shd);
   color:var(--sp-fnt);
   padding:12px;
-  border:2px solid var(--brdr);
+  border:var(--bord);
   font-style:normal;
   border-radius:15px;
   text-align:center;
@@ -451,7 +454,7 @@ th:last-child,td:last-child {
   color:var(--mn-fnt);
   padding:10px;
   box-shadow:0px 0px 20px 5px var(--shd) inset;
-  border:2px solid var(--brdr);
+  border:var(--bord);
   border-radius:15px;
   text-align:left;
   margin:10px 0px;
@@ -508,7 +511,7 @@ th:last-child,td:last-child {
   overflow-x:auto;
   overflow-y:hidden;
   background-color:var(--bg);
-  border:3px solid var(--brdr);
+  border:var(--bord3)
   margin:10px 0px 0px 0px;
   display:flex;
   border-radius:15px 15px 0px 0px;
@@ -543,9 +546,9 @@ th:last-child,td:last-child {
   overflow-x:auto;
   background-color:var(--bx);
   box-shadow:0px 0px 50px 0px var(--shd) inset;
-  border-bottom:3px solid var(--brdr);
-  border-left:3px solid var(--brdr);
-  border-right:3px solid var(--brdr);
+  border-bottom:var(--bord3)
+  border-left:var(--bord3)
+  border-right:var(--bord3)
   border-radius:0px 0px 15px 15px;
 }
 /* BELOW THIS POINT IS MEDIA QUERY */
@@ -568,7 +571,7 @@ aside {
   padding:5px;
 }
 hr {
-  border:2px solid var(--brdr);
+  border:var(--bord);
   border-radius:5px;
   width:90%;
 }
