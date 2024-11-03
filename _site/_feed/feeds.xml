@@ -9,83 +9,97 @@
     <item>
       <title>Video Series That I Reccommend</title>
       <link>https://mechagic.lexiqqq.com/blog/Video_series_that_I_reccommend/</link>
-      <description>&lt;p&gt;These are just a buncha stuff that I watched and liked, who knows maybe y&#39;all would like them as well!&lt;/p&gt;
-   &lt;div class=&quot;bx1&quot;&gt;
+      <description>&lt;style&gt;
+.bx1 {
+  background-color:transparent;
+  border:0px;
+  box-shadow: none;
+  border-radius:0px;
+  padding:0px;
+  margin:0px;
+  display:flex;
+  flex-direction:row;
+}
+hr {
+  border:var(--bord);
+  border-radius:5px;
+  width:90%;
+}
+
+@media only screen and (max-width:800px){
+.bx1 {
+  flex-direction:column;
+}
+}
+&lt;/style&gt;
+&lt;p&gt;These are just a buncha stuff that I watched and liked, who knows maybe y&#39;all would like them as well!&lt;/p&gt;
+&lt;div class=&quot;bx1&quot;&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;crnlft&quot;&gt;
-&lt;center&gt;&lt;img src=&quot;https://mechagic.lexiqqq.com/_img/2unorthodoxkitten.jpg&quot; style=&quot;width:75%; border-radius:15px;&quot;&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/kIiHHeD.jpeg&quot; style=&quot;width:60%; border-radius:15px;&quot;&gt;&lt;/center&gt;
 &lt;b&gt;Content Warnings:&lt;/b&gt;
 &lt;code&gt;Eyestrain, flashing lights, unreality and emergency sirens&lt;/code&gt;
 &lt;/div&gt;
 &lt;div class=&quot;crnrht&quot;&gt;
 &lt;h3&gt;Unorthodox Kitten&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Synopsis:&lt;/b&gt;
-It is beyond the point of no return, the machine will not die. Finiteness is only an external reality and existence no longer exists. The infinity, singularity, and the rapture are all happening at the same time.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Thoughts on the series:&lt;/b&gt;
+Pretty hard to understand but cool to look at, Unorthodox Kitten has a lot of really interesting mathematical concepts inside of it. If you enjoy hard to understand, spooky vibe, eldritch stuff, you&#39;ll probably like Unorthodox Kitten&#39;s videos.  Also the songs the creator put in the background are really good and fit the visuals well.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/@Unorthodox_Kitten/playlists&quot;&gt;All Episodes &lt;i class=&quot;ph ph-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
  &lt;/div&gt;
-   &lt;div class=&quot;bx1&quot;&gt;
+&lt;br&gt;&lt;hr&gt;&lt;br&gt;
+       &lt;div class=&quot;bx1&quot;&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;crnlft&quot;&gt;
-&lt;center&gt;&lt;img src=&quot;https://mechagic.lexiqqq.com/_img/2bloodybunny.jpg&quot; style=&quot;width:75%; border-radius:15px;&quot;&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/QGyfXGF.jpeg&quot; style=&quot;width:60%; border-radius:15px;&quot;&gt;&lt;/center&gt;
 &lt;b&gt;Content Warnings:&lt;/b&gt;
 &lt;code&gt;Eyestrain, flashing lights, child abuse, body horror, gore and death&lt;/code&gt;
 &lt;/div&gt;
 &lt;div class=&quot;crnrht&quot;&gt;
 &lt;h3&gt;Bloody Bunny: The First Blood&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Synopsis:&lt;/b&gt;
-The series takes Bloody Bunny back to its darker roots of the original series, however this time around, the Bloody Bunny doll is controlled by the vengeful soul of a human girl.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Thoughts on the series:&lt;/b&gt;
+I&#39;ll be upfront here: I&#39;ve never watched any other media related to Bloody Bunny other than this one, and I&#39;ll have to say: It is so cool and awesome. The animation, the action, the blood and gore. It&#39;s all a feast for the eyes and boy am I begging the waiter for more.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=B5_aRsGiHwo&quot;&gt;All Episodes &lt;i class=&quot;ph ph-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
  &lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;bx1&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;br&gt;&lt;hr&gt;&lt;br&gt;
+    &lt;div class=&quot;bx1&quot;&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;crnlft&quot;&gt;
-&lt;center&gt;&lt;img src=&quot;https://mechagic.lexiqqq.com/_img/2internecioncube.jpg&quot; style=&quot;width:75%; border-radius:15px;&quot;&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/Em2njSC.jpeg&quot; style=&quot;width:60%; border-radius:15px;&quot;&gt;&lt;/center&gt;
 &lt;b&gt;Content Warnings:&lt;/b&gt;
 &lt;code&gt;Body horror, gore and robot death&lt;/code&gt;
 &lt;/div&gt;
 &lt;div class=&quot;crnrht&quot;&gt;
 &lt;h3&gt;Internecion Cube&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Synopsis:&lt;/b&gt;
-Internecion Cube is a cartoon animatic series by Liam Vickers, the maker of Cliffside, focusing on 15-year-old Max and spoopy A.I. murder-cube IC-0n as they attempt to evade the agents of a shadowy government agency.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Thoughts on the series:&lt;/b&gt;
+Internecion Cube was Liam Vickers&#39; other series about cool robots that kill each other. Although I haven&#39;t watched Murder Drones yet, if you enjoyed that one, you&#39;re sure to enjoy this one. Wanna see a weird cube thing speak in japanese and do some cool anime shit? That happens here, go watch it.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL5w2zEEHyu9diwutPVgkzEuARUt_sGkRM&quot;&gt;All Episodes &lt;i class=&quot;ph ph-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
  &lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;bx1&quot;&gt;&lt;p&gt;&lt;/p&gt;
+ &lt;br&gt;&lt;hr&gt;&lt;br&gt;
+     &lt;div class=&quot;bx1&quot;&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;crnlft&quot;&gt;
-&lt;center&gt;&lt;img src=&quot;https://mechagic.lexiqqq.com/_img/2junearchive.jpg&quot; style=&quot;width:75%; border-radius:15px;&quot;&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/uY4ICOG.jpeg&quot; style=&quot;width:60%; border-radius:15px;&quot;&gt;&lt;/center&gt;
 &lt;b&gt;Content Warnings:&lt;/b&gt;
 &lt;code&gt;Eyestrain, flashing lights, unreality, and child death.&lt;/code&gt;
 &lt;/div&gt;
 &lt;div class=&quot;crnrht&quot;&gt;
 &lt;h3&gt;The June Archive And Restoration Project&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Synopsis:&lt;/b&gt;
-A series that dictates Hatena&#39;s shutdown from the perspective of the Flipnotes and includes themes of the remembrance of things long gone, the strong desire to live in the past, and trying to recapture those good times long past, &lt;i&gt;no matter the cost&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Thoughts on the series:&lt;/b&gt;
+Wanting to go back to simpler times is something everyone wants to do. This series explores that AND much more. Lotsa good animation and a banger song in one of the episodes. This horror series also doesn&#39;t focus much on jumpscares, so when there is one, you&#39;ll genuinely be caught off guard&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/@JuneFlipArchive/videos&quot;&gt;All Episodes &lt;i class=&quot;ph ph-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
  &lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;bx1&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;br&gt;&lt;hr&gt;&lt;br&gt;
+     &lt;div class=&quot;bx1&quot;&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div class=&quot;crnlft&quot;&gt;
-&lt;center&gt;&lt;img src=&quot;https://mechagic.lexiqqq.com/_img/2satina.jpg&quot; style=&quot;width:75%; border-radius:15px;&quot;&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.imgur.com/Qbcu4DY.jpeg&quot; style=&quot;width:60%; border-radius:15px;&quot;&gt;&lt;/center&gt;
 &lt;b&gt;Content Warnings:&lt;/b&gt;
 &lt;code&gt;None&lt;/code&gt;
 &lt;/div&gt;
 &lt;div class=&quot;crnrht&quot;&gt;
-&lt;h3&gt;Satina&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Synopsis:&lt;/b&gt;
-Satina details the life and (mis)adventures of the eponymous cambion and her parents. Satina is the daughter of the overworked Queen of North American Hell, Lucia and her father Dave, an ordinary man working as an IT consultant in the human world.&lt;/p&gt;
+&lt;h3&gt;Satina&lt;/h3&gt;
+&lt;b&gt;Thoughts on the series:&lt;/b&gt;
+Cool animation and really cool backgrounds. I laughed a lot when watching it. I don&#39;t laugh a lot ingeneral when it comes to these sorts of things, so I think it&#39;s pretty funny. The dynamics between the characters bounce off each other pretty well.&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLcbDWlQO3Hl3lvtjTga3ujQXjHk3VSXik&quot;&gt;All Episodes &lt;i class=&quot;ph ph-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
- &lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;bx1&quot;&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;crnlft&quot;&gt;
-&lt;center&gt;&lt;img src=&quot;https://mechagic.lexiqqq.com/_img/2solarballs.jpg&quot; style=&quot;width:75%; border-radius:15px;&quot;&gt;&lt;/center&gt;
-&lt;b&gt;Content Warnings:&lt;/b&gt;
-&lt;code&gt;Attempted suicide (Earth Arc).&lt;/code&gt;
-&lt;/div&gt;
-&lt;div class=&quot;crnrht&quot;&gt;
-&lt;h3&gt;SolarBalls&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Synopsis:&lt;/b&gt;
-The Series follows Astrodude, an astronaut who goes out into space but little does he know that the planets, moons, ect can talk and think, just like us. This fact makes him wonder whether he’s going insane or not, as the planets also engage in their own drama.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL5w2zEEHyu9diwutPVgkzEuARUt_sGkRM&quot;&gt;All Episodes &lt;i class=&quot;ph ph-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
  &lt;/div&gt;</description>
       <pubDate>Sun, 03 Nov 2024 08:00:00 GMT</pubDate>
