@@ -208,12 +208,12 @@ main3 {
 }
 /*cosmetic*/
 iframe {
-  border:var(--bord3)
+  border:var(--bord3);
   border-radius:15px;
 }
 iframe.music {
   height:60px;
-  border:var(--bord3)
+  border:var(--bord3);
   border-radius:15px;
   width:50%;
 }
@@ -255,7 +255,7 @@ li{
   margin-bottom:5px
 }
 hr {
-  border:var(--bord3)
+  border:var(--bord3);
   border-radius:5px;
 }
 hr.th {
@@ -404,14 +404,14 @@ th,td {
   padding:8px;
   text-align:center;
   border-radius:15px;
-  border-left:var(--bord3)
-  border-right:var(--bord3)
+  border-left:var(--bord3);
+  border-right:var(--bord3);
 }
 th {
   padding:8px;
   text-align:center;
   border-radius:15px;
-  border-bottom:var(--bord3)
+  border-bottom:var(--bord3);
 }
 th:first-child,td:first-child {
   border-left:0;
@@ -507,17 +507,17 @@ th:last-child,td:last-child {
   content:"\25B2";
 }
 /* Style the tab */
-    .tab {
+  .tab {
   overflow-x:auto;
   overflow-y:hidden;
   background-color:var(--bg);
-  border:var(--bord3)
+  border:var(--bord3);
   margin:10px 0px 0px 0px;
   display:flex;
   border-radius:15px 15px 0px 0px;
 }
 /* Style the buttons inside the tab */
-    .tab button {
+  .tab button {
   background-color:var(--bg);
   border:none;
   font-family:inherit;
@@ -546,9 +546,9 @@ th:last-child,td:last-child {
   overflow-x:auto;
   background-color:var(--bx);
   box-shadow:0px 0px 50px 0px var(--shd) inset;
-  border-bottom:var(--bord3)
-  border-left:var(--bord3)
-  border-right:var(--bord3)
+  border-bottom:var(--bord3);
+  border-left:var(--bord3);
+  border-right:var(--bord3);
   border-radius:0px 0px 15px 15px;
 }
 /* BELOW THIS POINT IS MEDIA QUERY */

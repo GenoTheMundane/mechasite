@@ -16,11 +16,6 @@ date: 2024-11-03
   display:flex;
   flex-direction:row;
 }
-hr {
-  border:var(--bord);
-  border-radius:5px;
-  width:90%;
-}
 
 @media only screen and (max-width:800px){
 .bx1 {
