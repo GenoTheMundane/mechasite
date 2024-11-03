@@ -3,7 +3,7 @@ layout: t3.njk
 title: How To Prepare For A Hoard
 tags:
     - story
-    - posts
+    - wposts
 date: 2023-12-24
 ---
 

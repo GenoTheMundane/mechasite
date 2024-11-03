@@ -1,6 +1,6 @@
 ---json
 {
-  "permalink": "feed.xml",
+  "permalink": "/_feed/poetry_feed.xml",
   "eleventyExcludeFromCollections": true,
   "metadata": {
     "title": "All my writing",
@@ -21,7 +21,7 @@
     <atom:link href="{{ permalink | htmlBaseUrl(metadata.base) }}" rel="self" type="application/rss+xml" />
     <description>{{ metadata.description }}</description>
     <language>{{ metadata.language or page.lang }}</language>
-    {%- for post in collections.posts | reverse %}
+    {%- for post in collections.poetry | reverse %}
     {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}
     <item>
       <title>{{ post.data.title }}</title>

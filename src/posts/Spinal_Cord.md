@@ -3,7 +3,7 @@ layout: t3.njk
 title: Spinal Cord
 tags:
     - poetry
-    - posts
+    - wposts
 date: 2024-10-17
 ---
 

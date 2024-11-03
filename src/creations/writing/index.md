@@ -8,13 +8,13 @@ templateEngineOverride: njk, md
 
 # my writing
 
-<center>Want an rss feed for this page? Here's a <a href="/feed.xml">link <i class="ph ph-link"></i></a> to it!
-<br>I'm working on a seperate rss feed for the specific categories as well</center>
+<center>Want an rss feed for this page? Here's a <a href="/_feed/writing_feed.xml">link <i class="ph ph-link"></i></a> to it!</center>
 
 ---
 
 ## Short Stories And Concepts <i class="ph ph-notebook"></i>
 My short stories, I mostly make them up on the fly. I put my concepts here as well.
+<br>[rss feed <i class="ph ph-link"></i>](/_feed/story_feed)
 
 <ul>
 {%- for post in collections.story | reverse -%}
@@ -24,6 +24,7 @@ My short stories, I mostly make them up on the fly. I put my concepts here as we
 
 ## Poetry <i class="ph ph-scroll"></i>
 All of these are experimental and some of these are pretentious
+<br>[rss feed <i class="ph ph-link"></i>](/_feed/poetry_feed)
 
 <ul>
 {%- for post in collections.poetry | reverse -%}
@@ -33,6 +34,7 @@ All of these are experimental and some of these are pretentious
 
 ## Archives <i class="ph ph-archive"></i>
 Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is under rewriting.
+<br>No rss feed needed
 
 <ul>
 {%- for post in collections.archive | reverse -%}

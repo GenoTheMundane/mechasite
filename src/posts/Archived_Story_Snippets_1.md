@@ -3,7 +3,7 @@ layout: t3.njk
 title: Archived Story Snippets 1
 tags:
     - archive
-    - posts
+    - wposts
 date: 2023-12-08
 ---
 

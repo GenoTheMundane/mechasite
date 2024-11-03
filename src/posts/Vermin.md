@@ -3,7 +3,7 @@ layout: t3
 title: Vermin
 tags:
     - story
-    - posts
+    - wposts
 date: 2023-12-29
 ---
 

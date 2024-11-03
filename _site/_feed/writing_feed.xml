@@ -3,7 +3,7 @@
   <channel>
     <title>All my writing</title>
     <link>https://mechagic.lexiqqq.com/</link>
-    <atom:link href="https://mechagic.lexiqqq.com/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mechagic.lexiqqq.com/_feed/writing_feed.xml" rel="self" type="application/rss+xml" />
     <description>My writing, wow so cool</description>
     <language>en</language>
     <item>

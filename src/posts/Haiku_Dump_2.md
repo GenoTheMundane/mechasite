@@ -3,7 +3,7 @@ layout: t3.njk
 title: Haiku Dump 2
 tags:
     - poetry
-    - posts
+    - wposts
 date: 2024-03-06
 ---
 

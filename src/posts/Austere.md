@@ -3,7 +3,7 @@ layout: t3.njk
 title: Austere
 tags:
     - story
-    - posts
+    - wposts
 date: 2024-10-28
 ---
 
