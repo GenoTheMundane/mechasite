@@ -6,7 +6,7 @@ propd: Stuff I made, my drawings, my writing, and my music. As well as my paid w
 ---
 
 # creations
-
+---
 If you like any of my stuff, consider supporting me on [KoFi <i class="ph ph-link"></i>](https://ko-fi.com/mechagic)
 <br> Recently I've been figuring out RSS, so hopefully soon y'all can subscribe to those
 

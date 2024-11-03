@@ -7,10 +7,8 @@ templateEngineOverride: njk, md
 ---
 
 # my writing
-
-<center>Want an rss feed for this page? Here's a <a href="/_feed/writing_feed.xml">link <i class="ph ph-link"></i></a> to it!</center>
-
 ---
+[rss feed <i class="ph ph-link"></i>](/_feed/writing_feed.xml) for all categories
 
 ## Short Stories And Concepts <i class="ph ph-notebook"></i>
 My short stories, I mostly make them up on the fly. I put my concepts here as well.

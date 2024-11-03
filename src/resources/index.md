@@ -5,11 +5,9 @@ ogd: Resources I found around the web for making your own website
 propd: Resources I found around the web for making your own website
 ---
 # resources
-
+---
 A buncha resources for website making and other stuff! 
 <br>Highlighted `text` are things that I used for the website
-
----
 
 ## Tutorials <i class="ph ph-notepad"></i>
 A bunch of things that I read that helped me make this website
