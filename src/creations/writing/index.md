@@ -14,7 +14,7 @@ templateEngineOverride: njk, md
 
 ## Short Stories And Concepts <i class="ph ph-notebook"></i>
 My short stories, I mostly make them up on the fly. I put my concepts here as well.
-<br>[rss feed <i class="ph ph-link"></i>](/_feed/story_feed)
+<br>[rss feed <i class="ph ph-link"></i>](/_feed/story_feed.xml)
 
 <ul>
 {%- for post in collections.story | reverse -%}
@@ -24,7 +24,7 @@ My short stories, I mostly make them up on the fly. I put my concepts here as we
 
 ## Poetry <i class="ph ph-scroll"></i>
 All of these are experimental and some of these are pretentious
-<br>[rss feed <i class="ph ph-link"></i>](/_feed/poetry_feed)
+<br>[rss feed <i class="ph ph-link"></i>](/_feed/poetry_feed.xml)
 
 <ul>
 {%- for post in collections.poetry | reverse -%}
