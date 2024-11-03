@@ -29,7 +29,7 @@ Stuff to help with coding, I used most of the tools here
 - Eleventy, the SSG that I'm using right now! - [link <i class="ph ph-link"></i>](https://www.11ty.dev/)
 - Ringfairy, a static site generator but for webrings - [link <i class="ph ph-link"></i>](https://github.com/k3rs3d/ringfairy/)
 - 11ty -> Lexiqqq Workflow, cuts out a ton of annoying work - [link <i class="ph ph-link"></i>](https://moosyu.github.io/pages/guides/lexiqqq_eleventy/)
-- Goblin Heart layout builder, the base code for the website - [link <i class="ph ph-link"></i>](https://goblin-heart.net/sadgrl/projects/layout-builder/
+- Goblin Heart layout builder, the base code for the website - [link <i class="ph ph-link"></i>](https://goblin-heart.net/sadgrl/projects/layout-builder/)
 - CSSgradient, what I used to make all of the gradients here - [link <i class="ph ph-link"></i>](https://cssgradient.io)
 - Petrapixel's layout builder, actively maintained unlike the one above - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/coding/layout-generator)
 - Onionring.js, a script and widget combo that manages and makes webrings - [link <i class="ph ph-link"></i>](https://garlic.garden/onionring/)
