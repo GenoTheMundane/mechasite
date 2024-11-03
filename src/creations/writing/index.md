@@ -39,4 +39,3 @@ Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is un
      <li><a style="font-style: normal;" href="{{ post.url }}">{{ post.data.title }}</a> - <span style=" font-style: normal;">{{ post.date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).replace('.', '') }}</span></li>
   {%- endfor -%}
 </ul>
-
