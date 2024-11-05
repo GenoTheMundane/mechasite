@@ -1,6 +1,10 @@
 ---
-layout: t3
-title: Guestbook
+layout: t1
+title: Website
+ogd: My guestbook! Go write whatever you want here (or don't, I'm not the boss of you)
+propd: My guestbook! Go write whatever you want here (or don't, I'm not the boss of you)
+---
+# guestbook
 ---
 <link rel="stylesheet" href="/_assets/comment-widget-dark.css">  
 
@@ -10,7 +14,10 @@ title: Guestbook
 <br>
 <center>Didn't mean to come here? click this <a href="javascript:window.history.back()">link <i class="ph ph-link"></i></a> to go back</center>
 <br>
+
 <div id="c_widget"></div>
 <script src="/_assets/comment-widget.js"></script> 
 
 ---
+
+### <center><a href="javascript:window.history.back()">Go Back</a></center>

@@ -65,7 +65,7 @@
 /* Main */
 #c_widget {
     box-sizing: border-box;
-    height: 100%;
+    height: auto;
     overflow: auto;
     padding: 20px;
 }
