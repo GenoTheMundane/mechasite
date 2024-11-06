@@ -15,7 +15,7 @@ It will be fine, it will probably be a fluke as well, the votes aren't done bein
 
 I just want this to end soon, I am so tired of this.
 
-I eat, sleep, shit, piss, go to school, learn stuff I don't care about and it can all end, and it's fine I'm fine with this. I'll just keep going forward.
+I eat, sleep, shit, piss, go to school, learn stuff I don't care about and it could all end at any moment, and it's fine I'm fine with this. I'll just keep going forward.
 
 You too, by the way, you should also keep going forward, even if it gets annoying at some point.
 <br><br>
