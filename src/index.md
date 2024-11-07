@@ -86,6 +86,7 @@ Code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neociti
      <button style="margin:0px 0px 15px 0px;" class="accordion">Open</button>
         <div class="panel">
           <div style="width:90%; margin:auto;" class="bx2">
+            <div class="flex">
                     <div style="width:20%; margin: auto;">
                       <a href="https://peanits.lol/webrings/musicring/index.php"><img src="https://peanits.lol/webrings/musicring/assets/button.gif"></a><br>
                       <a href="https://peanits.lol/webrings/musicring/prev.php?slug=mechagic">prev</a>
@@ -109,4 +110,5 @@ Code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neociti
                     <!--END OF SELF INSERT WEBRING-->
         </div>
         </div>
+      </div>
 </div>
