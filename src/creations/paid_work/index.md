@@ -36,11 +36,11 @@ Drew up multiple icons for an old version of [Poyoweb <i class="ph ph-link"></i>
         <a href="/_pw/6poyoweb.webp" data-caption="Document Icon">
             <img class="tramb" src="/_pw/6poyoweb.webp" alt="Document Icon">
         </a>
-        <a href="/_pw/7poyoweb.webp" data-caption="Unknown File Icon">
-            <img class="tramb" src="/_pw/7poyoweb.webp" alt="Unknown File Icon">
+        <a href="/_pw/7poyoweb.webp" data-caption="Carl with mouth closed">
+            <img class="tramb" src="/_pw/7poyoweb.webp" alt="Carl with mouth closed">
         </a>
-        <a href="/_pw/8poyoweb.webp" data-caption="Photo File Icon">
-            <img class="tramb" src="/_pw/8poyoweb.webp" alt="Photo File Icon">
+        <a href="/_pw/8poyoweb.webp" data-caption="Carl with mouth open">
+            <img class="tramb" src="/_pw/8poyoweb.webp" alt="Carl with mouth open">
         </a>
 </div>
 <br>
