@@ -15,7 +15,7 @@ You can message me on my discord `mechagic` or email me at `mechagic@proton.me` 
 You can buy my services [here <i class="ph ph-link"></i>](https://ko-fi.com/c/c6c2119f51) (only 3 slots open)
 
 ## Poyoweb
-Drew up multiple icons for [Poyoweb <i class="ph ph-link"></i>](https://poyoweb.poyo.study/) by Poyo. An up-and-coming web host made by Poyo and Team Sundown 
+Drew up multiple icons for an old version of [Poyoweb <i class="ph ph-link"></i>](https://poyoweb.poyo.study/) by Poyo. An up-and-coming web host made by Poyo and Team Sundown 
 
 <div class="gallery">
         <a href="/_pw/1poyoweb.webp" data-caption="Back Button">
