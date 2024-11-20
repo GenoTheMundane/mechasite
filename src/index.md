@@ -8,6 +8,7 @@ propd: A very cool personal website that belongs to a cockroach that learned how
 # !!! greetings !!!
 # !! users !!
 ---
+<link rel="prefetch" href="/_img/1entrance_hover.webp" />
 
 ***click the image below to enter the website!***
 
